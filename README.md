@@ -3,3 +3,5 @@ This dataset, is designed for retail analytics, covering a vast range of data po
 ## Dataset
 Due to size limitations, the dataset is hosted on Google Drive.  
 🔗 [Download Here](https://drive.google.com/file/d/1nwegIzz8YbJHaqll0iZnUPeLo12cVXco/view?usp=sharing)
+here is the splitied columns(https://drive.google.com/drive/folders/1mz6RN4f19TdGyvX425gtIuY5e_N6PzwH?usp=sharing)
+
