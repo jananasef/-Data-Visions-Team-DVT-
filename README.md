@@ -5,7 +5,10 @@ Due to size limitations, the dataset in csv is hosted on Google Drive.
 (https://drive.google.com/file/d/1nwegIzz8YbJHaqll0iZnUPeLo12cVXco/view?usp=sharing)
 here is the splitied columns in csv
 (https://drive.google.com/drive/folders/1mz6RN4f19TdGyvX425gtIuY5e_N6PzwH?usp=sharing)
+
 -------------------------------------------------------------------------------------------------------------------------------
+Analysis and visualize by Python script
+-------------------------------------------
 This Python script performs exploratory data analysis (EDA) on a retail sales dataset, using pandas, seaborn, and matplotlib. The main objectives are to clean the data, explore trends, and visualize key insights to better understand business performance.
  -- Data Cleaning & Preparation
 *Handles missing values and duplicates.
@@ -27,6 +30,7 @@ This Python script performs exploratory data analysis (EDA) on a retail sales da
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 Retail Sales & Customer Behavior Analysis (SQL)
+--------------------------------------------------
 This project focuses on analyzing retail and customer behavior data using SQL queries, targeting performance metrics (KPIs) across multiple domains such as customer behavior, promotions, sales, production, seasonal patterns, and geographic distribution. The analysis is designed to uncover actionable insights that drive business decisions and strategic planning.
 
 **Purpose
@@ -76,6 +80,10 @@ The SQL queries in this project are structured to compute a wide range of Key Pe
     *Assesses product preferences, store visit frequency, and regional campaign responses.
     *Evaluates delivery times and satisfaction scores to optimize logistics.
 
+------------------------------------------------------------------------------------------
+Here is the tableau visualiztion due to its size so i uploaded it on drive
+(https://drive.google.com/file/d/1gIk_AzXW94kN-wCyOzHW237TeD6VWu_m/view?usp=drive_link)
+-------------------------------------------------------------------------------------------
 
 
 
